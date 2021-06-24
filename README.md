@@ -1,4 +1,4 @@
-# WaAir - IBM WATSON IOT ESP32
+# WaAir - IBM WATSON IoT ESP32
 
 #### WaAir is a smart Cloud & IoT based nonprofit focuses on innovative and sustainable solutions to some of humanity's most enduring issues through the fusion of local knowledge and resources, visionary design and ancient traditions. It is an alternative water source for rural populations that face challenges in accessing drinkable water. It collects water from the rain and harvests fog and dew.
 ![WaAir-1](https://user-images.githubusercontent.com/78072645/122664832-6054de00-d1c1-11eb-9250-7c26cf837961.jpg)
